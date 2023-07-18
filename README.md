@@ -1,24 +1,9 @@
 # README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
+👋 Hi, I’m Javiera Soto. Consider entering in /config/database.yml su: "username" and your "password" that you preportioned in the Postgresql installation.
 
 Things you may want to cover:
-
 * Ruby version
-
-* System dependencies
-
-* Configuration
-
 * Database creation
-
 * Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
 * Deployment instructions
-
 * ...
