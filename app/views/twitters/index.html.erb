@@ -14,7 +14,7 @@
 </nav>
 </div>
 
-
+<div class="container">
 <% @twitters.each do |twitter| %>
   <div class="card border-info mb-2" style="max-width: 200rem;">
     <div class="card-header">
@@ -34,4 +34,5 @@
 
 <div style="margin-top: 20px; margin-bottom: 50px">
 <%= link_to "Crear un nuevo Tweet", new_twitter_path, class:"btn btn-info" %>
+</div>
 </div>
